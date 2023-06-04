@@ -40,7 +40,7 @@ const CampsiteInfoScreen = ({ route }) => {
 };
 
 const styles = StyleSheet.create({
-  comentsTitle: {
+  commentsTitle: {
     textAlign: 'center',
     backgroundColor: '#fff',
     fontSize: 16,
